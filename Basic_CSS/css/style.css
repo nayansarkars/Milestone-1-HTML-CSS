@@ -1,0 +1,23 @@
+.header{
+    height: 500px;
+    /* background-image: url('Baby1.jpg'); */
+    /* background-image: url('../banner_img.jpg'); */
+    background-image: url('../web_banner_image/banner_image.png');
+    /* background-image: url('../web_banner_image/image_01.webp'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: red;
+    background-color: gray;
+}
+
+h2{
+    color: lightgreen;
+}
+p{
+    color: blueviolet;
+}
+.page_title{
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
